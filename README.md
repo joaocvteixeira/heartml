@@ -19,3 +19,4 @@ A proposta do desafio era criar um site para uma clínica médica, utilizando ex
 - **Styleatria** — Estética visual com base em boas práticas de estrutura.
 - **Scriptologia** — Diagnóstico precoce de bugs lógicos (ainda sem JS 😄).
 
+<img src="blob:https://github.com/de2cd669-d786-4f39-be72-267548bcce88"
