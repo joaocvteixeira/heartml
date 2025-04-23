@@ -2,7 +2,7 @@
 
 ## 💚 Heartml – Clínica de Código e Criatividade
 
-**Heartml** é uma clínica fictícia criada como parte do projeto prático do módulo **[HTML I – Conceitos Básicos* da formação **HTML Web Developer](https://github.com/digitalinnovationone/trilha-html-modulo-2)** na plataforma [DIO.me](https://dio.me), orientado pelo professor **Diogo Mainerdes** e desenvolvido por **[João Teixeira](https://github.com/joaocvteixeira)**.
+**Heartml** é uma clínica fictícia criada como parte do projeto prático do módulo **[HTML I – Conceitos Básicos da formação HTML Web Developer](https://github.com/digitalinnovationone/trilha-html-modulo-2)** na plataforma [DIO.me](https://dio.me), orientado pelo professor **Diogo Mainerdes** e desenvolvido por **[João Teixeira](https://github.com/joaocvteixeira)**.
 
 ### 💻 Sobre o projeto
 A proposta do desafio era criar um site para uma clínica médica, utilizando exclusivamente HTML com um toque de CSS. A **Heartml** representa uma clínica especializada em cuidar da "saúde" de códigos e desenvolvedores.
