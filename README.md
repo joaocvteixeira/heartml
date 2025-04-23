@@ -18,5 +18,6 @@ A proposta do desafio era criar um site para uma clínica médica, utilizando ex
 - **Textologia** — Tratamento de textos desalinhados e tags soltas.
 - **Styleatria** — Estética visual com base em boas práticas de estrutura.
 - **Scriptologia** — Diagnóstico precoce de bugs lógicos (ainda sem JS 😄).
--
-- ![screenshot](blob:https://github.com/de2cd669-d786-4f39-be72-267548bcce88)
+
+
+![screenshot](https://github.com/user-attachments/assets/ce14579e-6d00-4a14-8663-75b6aae3075c)
