@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<link rel="icon" href="favicon.png">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contatos Heartml</title>
+</head>
+<body style="margin: 0;">
+    <div class="wrapper" style="display: flex; flex-direction: column; min-height: 100vh;">
+        <div class="menu" style="position: fixed; width: 225px; height: 100%; background-color: #f0f0f0; padding: 10px; border-right: 2px solid #ccc; z-index: 1;">
+            <a href="pagina_principal.html"> <img src="pagina_principal_menu.svg" style="width:100%" alt="Botão Pagina Prinicipal no Menu"></a>
+            <a href="sobre_clinica.html"> <img src="sobre_clinica_menu.svg" style="width:100%" alt="Botão Sobre a Cliníca no Menu"></a>
+            <a href="horario_atendimento.html"> <img src="horario_menu.svg" style="width:100%" alt="Botão Horário de Atendimento no Menu"></a>
+            <a href="contato.html"> <img src="contato_menu.svg" style="width:100%" alt="Botão Conato no Menu"></a>
+        </div>
+        <div class="main" style="flex: 1;">
+            <div class="header" style="width: 100%; background-color: #f0f0f0; text-align: center; border-bottom: 2px solid #ccc">                 
+                <img src="contatos.svg" alt="Heartml Logo" style="display: block; margin: auto; width: 20%;">
+            </div>
+            <div class="content" style="text-align: center; width: 50%; margin: auto;">
+                <h1>Contatos 📞</h1>
+                <b><a href="https://github.com/joaocvteixeira" style="color: green"> WhatsApp: (00) 00000-0000</a> | <a href="https://linkedin.com/in/joaocvteixeira" style="color: green">Telefone: (11) 11111-1111</a></b><br>
+                <h1>Entre em Contato</h1>
+                <form action="#" method="post" style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
+                    <label for="nome" style="width: 100%; text-align: left;">Nome:</label>
+                    <input type="text" id="nome" name="nome" placeholder="Digite seu nome" style="width: 100%; padding: 10px; border: 1px solid #ccc; border-radius: 5px;" required>
+                    <label for="email" style="width: 100%; text-align: left;">E-mail:</label>
+                    <input type="email" id="email" name="email" placeholder="Digite seu e-mail" style="width: 100%; padding: 10px; border: 1px solid #ccc; border-radius: 5px;" required>
+                    <label for="assunto" style="width: 100%; text-align: left;">Assunto:</label>
+                    <input type="text" id="assunto" name="assunto" placeholder="Digite o assunto" style="width: 100%; padding: 10px; border: 1px solid #ccc; border-radius: 5px;" required>
+                    <label for="mensagem" style="width: 100%; text-align: left;">Mensagem:</label>
+                    <textarea id="mensagem" name="mensagem" placeholder="Digite sua mensagem" rows="5" style="width: 100%; padding: 10px; border: 1px solid #ccc; border-radius: 5px;" required></textarea>
+                    <div style="display: flex; gap: 10px;">
+                        <button type="submit" style="padding: 10px 20px; background-color: lime; color: black; border: none; border-radius: 5px; cursor: pointer;"><b>Enviar</b></button>
+                        <button type="reset" style="padding: 10px 20px; background-color: ccc; color: black; border: none; border-radius: 5px; cursor: pointer;"><b>Limpar</b></button>
+                    </div>
+                </form>            
+            <div style="padding: 20px" class="map">
+                <h1>Localização 🗺️</h1>
+                <p>Estamos localizados no Oceano Atlântico</p>
+                <iframe src="https://www.google.com/maps/d/embed?mid=1SlalnBu4l28l7TSGpzSSLVivl_L4ExQ&ehbc=2E312F" width="640" height="480"></iframe>
+            </div>           
+        </div>
+        <div class="footer" style="position: relative; width: calc (100% - 225px); text-align: center; background-color: #f0f0f0; border-top: 2px solid #ccc; padding: 10px; z-index: 2;">
+            Essa página é um projeto e repositório produzido por <a href="https://github.com/joaocvteixeira">João Teixeira</a> que faz parte do <a href="https://github.com/digitalinnovationone/trilha-html-modulo-2">desafio Modulo 2 - HTML I da trilha HTML Web Developer</a> da plataforma DIO.me
+        </div>
+</body>
+</html>
