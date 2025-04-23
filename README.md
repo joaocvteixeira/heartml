@@ -1,5 +1,4 @@
 ![screenshot](https://github.com/user-attachments/assets/ce14579e-6d00-4a14-8663-75b6aae3075c)
-![heartml](https://github.com/user-attachments/assets/d1ab8279-90ea-43cd-964b-9b41fd9e8043)
 
 ## 💚 Heartml – Clínica de Código e Criatividade
 
